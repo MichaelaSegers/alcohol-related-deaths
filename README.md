@@ -2,6 +2,7 @@
 
 Zdroje dat
 Úmrtí, kde alkohol byl označen jako související rizikový faktor: https://ourworldindata.org/grapher/deaths-due-to-alcohol-use?tab=chart
+Množství zkonzumovaného alkoholu na osobu: https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol
 Podíl piva z celkové konzumace alkoholu: https://ourworldindata.org/grapher/beer-as-share-alcohol-consumption
 Konzumace piva na osobu (v litrech čistého alkoholu): https://ourworldindata.org/grapher/beer-consumption-per-person
 Podíl vína z celkové konzumace alkoholu: https://ourworldindata.org/grapher/wine-as-share-alcohol-consumption

@@ -1,5 +1,7 @@
 # alcohol-related-deats
 
+Samostatný projekt zkoumající pomocí SQL a vizualizací v Power BI data o konzumaci alkoholu v jednotlivých zemích a s tím spojenými úmrtími.
+
 Zdroje dat
 Úmrtí, kde alkohol byl označen jako související rizikový faktor: https://ourworldindata.org/grapher/deaths-due-to-alcohol-use?tab=chart
 Množství zkonzumovaného alkoholu na osobu: https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol
